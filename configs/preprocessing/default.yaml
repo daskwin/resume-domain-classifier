@@ -1,0 +1,7 @@
+lowercase: true
+strip: true
+remove_urls: true
+remove_emails: true
+remove_numbers: false
+keep_only_basic_punct: true
+max_length: 20000

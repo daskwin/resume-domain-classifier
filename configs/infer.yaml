@@ -1,0 +1,7 @@
+defaults:
+  - preprocessing: default
+  - model: tfidf_linear
+  - _self_
+
+artifact_dir: ${model.export.dir}
+top_k: 5

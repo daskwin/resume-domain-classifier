@@ -1,0 +1,5 @@
+raw_path: data/raw/dataset.csv
+text_col: Resume_str
+label_col: Category
+encoding: utf-8
+sep: ","

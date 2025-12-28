@@ -1,0 +1,9 @@
+defaults:
+  - data: default
+  - preprocessing: default
+  - model: tfidf_linear
+  - train: default
+  - logging: mlflow
+  - _self_
+
+seed: 42
