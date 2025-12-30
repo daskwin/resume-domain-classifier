@@ -1,6 +1,8 @@
 [core]
     remote = yandex
-['remote "yandex"']
+['remote "yandex_s3"']
     url = s3://mlops-intro-daskw/resume-domain-classifier
     endpointurl = https://storage.yandexcloud.net
     region = ru-central1
+['remote "yandex"']
+    url = https://storage.yandexcloud.net/mlops-intro-daskw/resume-domain-classifier
